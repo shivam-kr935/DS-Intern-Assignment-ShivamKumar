@@ -114,7 +114,12 @@ Consider operational changes during high energy use time windows
 Use this model to guide energy scheduling and real-time energy monitoring
 
 10. Deliverables
-
+- Full Jupyter notebooks covering EDA → Feature Engineering → Modeling
+- Missing value imputation using median strategy
+- Random Forest tuning using GridSearchCV
+- Feature selection analysis (excluded random_variable1 and random_varaible2)
+- Final model saved as `random_forest_final.pkl`
+- Markdown report summarizing methodology and results
 
 Next Steps
 
